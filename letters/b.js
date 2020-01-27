@@ -1,4 +1,4 @@
-export default words = [
+const words = [
   {
     "word": "Base"
   },
@@ -300,3 +300,5 @@ export default words = [
     "word": "Bury"
   }
  ]
+
+ module.exports.words = words
