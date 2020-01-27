@@ -4,7 +4,7 @@
   "description": "NPM package for generating random word by specific letter.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -32,5 +32,10 @@
   "bugs": {
     "url": "https://github.com/deanilvincent/random-word-by-letter/issues"
   },
-  "homepage": "https://github.com/deanilvincent/random-word-by-letter#readme"
+  "homepage": "https://github.com/deanilvincent/random-word-by-letter#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "esm": "^3.2.25",
+    "mocha": "^7.0.1"
+  }
 }
