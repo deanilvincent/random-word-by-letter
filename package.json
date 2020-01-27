@@ -1,0 +1,36 @@
+{
+  "name": "random-word-by-letter",
+  "version": "1.0.0",
+  "description": "NPM package for generating random word by specific letter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deanilvincent/random-word-by-letter.git"
+  },
+  "keywords": [
+    "random",
+    "word",
+    "random",
+    "word",
+    "by",
+    "letter",
+    "generate",
+    "word",
+    "random",
+    "by",
+    "letter",
+    "generate",
+    "word",
+    "by",
+    "letter"
+  ],
+  "author": "deanilvincent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deanilvincent/random-word-by-letter/issues"
+  },
+  "homepage": "https://github.com/deanilvincent/random-word-by-letter#readme"
+}
