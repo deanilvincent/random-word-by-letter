@@ -34,6 +34,7 @@
   },
   "homepage": "https://github.com/deanilvincent/random-word-by-letter#readme",
   "dependencies": {
+    "@babel/preset-env": "^7.8.3",
     "chai": "^4.2.0",
     "esm": "^3.2.25",
     "mocha": "^7.0.1"
