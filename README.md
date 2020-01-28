@@ -18,10 +18,11 @@ console.log(randomWord('b'))
 |1st Param (Required) | 2nd Param (Optional) |
 |--|--|
 | Letter | Letter Case |
-| e.g. **A-Z** | **U** - Upper case, **L** - Lower case, **blank** - Normal case |
+| e.g. **A-Z** | **U** - Upper case, **L** - Lower case, **blank** - Default letter case |
 
 ### Examples
 ```
+// Default letter case
 console.log(randomWord('a'))
 // e.g. Abstract
 
