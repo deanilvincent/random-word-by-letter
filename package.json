@@ -1,6 +1,6 @@
 {
   "name": "random-word-by-letter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM package for generating random word by specific letter.",
   "main": "index.js",
   "scripts": {
