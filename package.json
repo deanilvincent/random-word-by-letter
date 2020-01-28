@@ -1,7 +1,7 @@
 {
   "name": "random-word-by-letter",
   "version": "1.0.1",
-  "description": "NPM package for generating random word by specific letter.",
+  "description": "A NPM package for generating random word by specific letter. Hundred of words from A-Z. Upper and lower case options.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
