@@ -1,7 +1,7 @@
 {
   "name": "random-word-by-letter",
-  "version": "1.0.0",
-  "description": "NPM package for generating random word by specific letter.",
+  "version": "1.0.1",
+  "description": "A NPM package for generating random word by specific letter. Hundred of words from A-Z. Upper and lower case options.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -34,6 +34,7 @@
   },
   "homepage": "https://github.com/deanilvincent/random-word-by-letter#readme",
   "dependencies": {
+    "@babel/preset-env": "^7.8.3",
     "chai": "^4.2.0",
     "esm": "^3.2.25",
     "mocha": "^7.0.1"

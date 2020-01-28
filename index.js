@@ -8,7 +8,7 @@ module.exports = (letter, casing) => {
 
   if (casing) {
     casing = casing.toLowerCase();
-    if (casing !== "u" || casing !== "l") {
+    if (casing !== "u" && casing !== "l") {
       console.error("casing value is undefined. Use either u or l.");
       return "Exception error. Check console log."
     }
